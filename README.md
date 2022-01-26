@@ -1,4 +1,5 @@
-![chrome_ZesVVmO1Gk](https://user-images.githubusercontent.com/32977346/151131194-cb2e083a-3f62-4174-a25e-6ed2614ff5ac.png)
+![$_NNT8WRGQMM NKC7KPM6AM](https://user-images.githubusercontent.com/32977346/151134398-a297e6df-66f2-4f56-a50b-a2e3b83c34db.png)
+
 
 東方鏡仙録
 特色同人塔防 堂堂开工！
