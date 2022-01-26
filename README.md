@@ -29,8 +29,6 @@
 反向进攻（策划中）--终于有一个控制‘僵尸’的塔防游戏了，或许在遥远的未来，还会开发对战模式（画个饼）。
 
 
-<a href="https://www.patreon.com/bePatron?u=27854631" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
 
 支持我们：https://www.patreon.com/TouhouKyosenroku
 
