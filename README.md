@@ -11,6 +11,9 @@
 与此同时，乐园的巫女博丽灵梦一边保护还未被镜像替换的幸存者，一边与失智的镜像妖怪战斗的故事。
 
 
+![UE4Editor_7Zo8R24DRC](https://user-images.githubusercontent.com/32977346/152555307-0522393e-3f10-4b1a-99be-cafd6235b4d9.jpg)
+
+
 -----概述:
 
 
@@ -25,8 +28,6 @@
 简简单单的同人塔防：
 大量可使用的东方角色--各有所长的东方Project角色，利用她们不同的特点，消灭每一个敌人。
 
-
-![UE4Editor_7Zo8R24DRC](https://user-images.githubusercontent.com/32977346/152555307-0522393e-3f10-4b1a-99be-cafd6235b4d9.jpg)
 
 
 策略战斗--研究自己独特的角色和技能配置，控制一支大军与镜像敌人斗智斗勇！
