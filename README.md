@@ -26,8 +26,7 @@
 大量可使用的东方角色--各有所长的东方Project角色，利用她们不同的特点，消灭每一个敌人。
 
 
-![MJEEZXVY5`097O2{$)YIDZL](https://user-images.githubusercontent.com/32977346/152288402-f694eb87-6e16-4f0d-94b0-46c09059ff81.png)
-
+![UE4Editor_7Zo8R24DRC](https://user-images.githubusercontent.com/32977346/152555307-0522393e-3f10-4b1a-99be-cafd6235b4d9.jpg)
 
 
 策略战斗--研究自己独特的角色和技能配置，控制一支大军与镜像敌人斗智斗勇！
